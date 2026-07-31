@@ -164,8 +164,8 @@ Jest • React Testing Library
 
 📧 **Email:** [abhishekpandey.tech.12@gmail.com](mailto:abhishekpandey.tech.12@gmail.com)
 
-💼 **LinkedIn:** *Add your LinkedIn URL*
+💼 **LinkedIn:** *[Add your LinkedIn URL](https://www.linkedin.com/in/abhishek-pandey-724a62153/)*
 
-💻 **Portfolio:** *Add your Portfolio URL*
+💻 **Portfolio:** *[Add your Portfolio URL](https://github.com/Abhishekp12)*
 
 ⭐ *Always interested in building scalable products, solving challenging engineering problems, and contributing to high-impact teams.*
