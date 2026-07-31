@@ -1,66 +1,171 @@
 # Hi 👋, I'm Abhishek Pandey
 
-### Frontend Software Engineer | React.js | Javascript | TypeScript | Next.js
+## Full Stack Software Engineer | React.js • Node.js • TypeScript • JavaScript
 
-Frontend Engineer with 3.8+ years of experience building scalable, high-performance web applications using React.js, TypeScript, JavaScript, Redux Toolkit, and Next.js.
+🚀 **3.8+ Years of Professional Experience**
 
-I have worked on enterprise-grade solutions, product-based platforms, and client-driven applications including projects for Larsen & Toubro (L&T).
+💻 **Frontend:** React.js | Next.js | TypeScript | JavaScript
 
-### 🚀 What I Do
+⚙️ **Backend:** Node.js | Express.js | REST APIs
 
-* Build scalable React.js and Next.js applications
-* Design reusable component architectures
-* Optimize Core Web Vitals and Lighthouse scores
-* Implement secure authentication and authorization systems
-* Integrate REST APIs and enterprise workflows
-* Develop responsive, accessible, and performance-driven user experiences
+🗄️ **Databases:** PostgreSQL | MongoDB | Prisma ORM
+
+☁️ **DevOps:** Docker | Azure DevOps | Jenkins | Git | CI/CD
+
+🏢 Enterprise Applications | SaaS Platforms | Performance Optimization
+
+📍 Bengaluru, India | Open to Relocation
 
 ---
 
-## 💻 Tech Stack
+# 👨‍💻 About Me
+
+I'm a **Full Stack Software Engineer** with **3.8+ years of experience** building scalable, secure, and high-performance web applications using **React.js, Node.js, TypeScript, JavaScript, Next.js, Express.js, PostgreSQL, and MongoDB**.
+
+My experience spans both **Frontend Engineering** and **Backend API Development**, where I've designed responsive user interfaces, developed secure REST APIs, implemented authentication & authorization (JWT/RBAC), optimized application performance, and delivered production-ready features for enterprise products.
+
+I've contributed to enterprise-scale solutions, including projects for **Larsen & Toubro (L&T)**, Legal SaaS platforms, and real-time applications while working in Agile environments.
+
+---
+
+# 🚀 Core Expertise
+
+### 🎨 Frontend Development
+
+* React.js
+* Next.js
+* JavaScript (ES6+)
+* TypeScript
+* Redux Toolkit
+* RTK Query
+* React Query
+* Context API
+* GraphQL
+* HTML5
+* CSS3
+* Tailwind CSS
+* Material UI
+* Styled Components
+* SCSS
+
+---
+
+### ⚙️ Backend Development
+
+* Node.js
+* Express.js
+* RESTful APIs
+* JWT Authentication
+* Role-Based Access Control (RBAC)
+* Middleware
+* API Validation
+* Error Handling
+* Multi-Tenant SaaS Applications
+
+---
+
+### 🗄️ Databases
+
+* PostgreSQL
+* MongoDB
+* Prisma ORM
+* SQL
+* Database Design
+
+---
+
+### ☁️ DevOps & Tools
+
+* Docker
+* Azure DevOps
+* Jenkins
+* Git
+* GitHub
+* GitLab
+* Nginx
+* Webpack
+* Vite
+* Storybook
+
+---
+
+### 🧪 Testing
+
+* Jest
+* React Testing Library
+* Unit Testing
+
+---
+
+### 🤖 AI Assisted Development
+
+* GitHub Copilot
+* ChatGPT
+* Claude
+* Gemini
+
+---
+
+# 🏆 Professional Highlights
+
+✅ Built scalable enterprise web applications using **React.js + Node.js**
+
+✅ Developed secure **REST APIs** with **JWT Authentication** and **RBAC**
+
+✅ Built reusable React component libraries and Design Systems
+
+✅ Improved application load time by **up to 98%**
+
+✅ Reduced frontend bundle size by **40%** using lazy loading, code splitting, and optimization techniques
+
+✅ Developed enterprise solutions for **Larsen & Toubro (L&T)**
+
+✅ Built multi-tenant SaaS modules with secure tenant isolation
+
+✅ Worked on real-time applications, dashboards, geospatial visualization, and performance-critical systems
+
+---
+
+# 💼 Key Technologies
 
 ### Frontend
 
-React.js • Next.js • TypeScript • JavaScript (ES6+) • Redux Toolkit • RTK Query • Context API • React Query • Zustand • GraphQL
+React.js • Next.js • TypeScript • JavaScript • Redux Toolkit • RTK Query • React Query • Context API • GraphQL
 
-### UI & Styling
+### Backend
 
-Tailwind CSS • Material UI • Ant Design • SCSS/SASS • Styled Components • CSS Modules • Bootstrap
+Node.js • Express.js • REST APIs • JWT • RBAC • Middleware
 
-### Backend Exposure
+### Database
 
-Node.js • Express.js
+PostgreSQL • MongoDB • Prisma ORM • SQL
+
+### DevOps
+
+Docker • Azure DevOps • Jenkins • Git • GitHub • CI/CD • Nginx
 
 ### Testing
 
 Jest • React Testing Library
 
-### DevOps & Tools
+---
 
-Git • GitHub • Docker • Nginx • Azure DevOps • Jenkins • Jira • Webpack • Vite • Postman
+# 🌱 Currently Learning
 
-### AI-Assisted Development
-
-GitHub Copilot • ChatGPT • Claude • Gemini • Prompt Engineering
+* Advanced System Design
+* Distributed Systems
+* AWS Cloud
+* GenAI & AI Engineering
+* Backend Architecture & Scalability
 
 ---
 
-## 🏆 Key Achievements
+# 📫 Connect With Me
 
-✅ Reduced application load time from 7 minutes to 5 seconds (~98% improvement)
+📧 **Email:** [abhishekpandey.tech.12@gmail.com](mailto:abhishekpandey.tech.12@gmail.com)
 
-✅ Reduced bundle size by 40% through code splitting, lazy loading, and optimization techniques
+💼 **LinkedIn:** *Add your LinkedIn URL*
 
-✅ Improved Core Web Vitals score from 62 to 89
+💻 **Portfolio:** *Add your Portfolio URL*
 
-✅ Increased Lighthouse Performance score from 70+ to 90+
-
-✅ Delivered enterprise solutions for Larsen & Toubro (L&T)
-
----
-
-## 📫 Connect With Me
-
-LinkedIn: https://www.linkedin.com/in/abhishek-pandey-724a62153/
-
-Email: [abhishekpandey.tech.12@gmail.com](mailto:abhishekpandey.tech.12@gmail.com)
+⭐ *Always interested in building scalable products, solving challenging engineering problems, and contributing to high-impact teams.*
