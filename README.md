@@ -1,173 +1,168 @@
 # Hi 👋, I'm Abhishek Pandey
 
-## Full Stack Software Engineer | React.js • Node.js • TypeScript • JavaScript
+### Full Stack Software Engineer | React.js • Next.js • Node.js • TypeScript • JavaScript • Python • FastApi • GenAI
 
-🚀 **3.8+ Years of Professional Experience**
+Building scalable web applications, secure backend APIs, and reusable frontend architectures.
 
-💻 **Frontend:** React.js | Next.js | TypeScript | JavaScript
-
-⚙️ **Backend:** Node.js | Express.js | REST APIs
-
-🗄️ **Databases:** PostgreSQL | MongoDB | Prisma ORM
-
-☁️ **DevOps:** Docker | Azure DevOps | Jenkins | Git | CI/CD
-
-🏢 Enterprise Applications | SaaS Platforms | Performance Optimization
-
-📍 Bengaluru, India | Open to Relocation
+- 🚀 **Nearly 4 years of software development experience**
+- 💻 **Frontend:** React.js, Next.js, TypeScript, JavaScript
+- ⚙️ **Backend:** Node.js, Express.js, NestJS, REST APIs, Python, FastAPI
+- 🗄️ **Databases:** MongoDB, PostgreSQL, Mongoose, Prisma ORM
+- 🔐 **Security:** JWT Authentication, RBAC, Multi-Tenant Data Isolation
+- ☁️ **DevOps:** Docker, Jenkins, Azure DevOps, CI/CD
+- 📍 Bengaluru, India | Open to relocation across India
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a **Full Stack Software Engineer** with **3.8+ years of experience** building scalable, secure, and high-performance web applications using **React.js, Node.js, TypeScript, JavaScript, Next.js, Express.js, PostgreSQL, and MongoDB**.
+I'm a Full Stack Software Engineer with nearly 4 years of experience building scalable, performant, and maintainable web applications across frontend engineering and backend development.
 
-My experience spans both **Frontend Engineering** and **Backend API Development**, where I've designed responsive user interfaces, developed secure REST APIs, implemented authentication & authorization (JWT/RBAC), optimized application performance, and delivered production-ready features for enterprise products.
+I specialize in building reusable React component libraries and design systems, developing RESTful APIs, implementing authentication and authorization, and optimizing application performance. My experience includes React.js, Next.js, TypeScript, Node.js, Express.js, MongoDB, and PostgreSQL.
 
-I've contributed to enterprise-scale solutions, including projects for **Larsen & Toubro (L&T)**, Legal SaaS platforms, and real-time applications while working in Agile environments.
+I've worked on enterprise applications, SaaS platforms, dashboards, real-time applications, and data-intensive systems, including projects for **Larsen & Toubro (L&T)**. I enjoy solving practical engineering problems, designing clean application architecture, and collaborating with cross-functional teams in Agile/Scrum environments.
 
----
-
-# 🚀 Core Expertise
-
-### 🎨 Frontend Development
-
-* React.js
-* Next.js
-* JavaScript (ES6+)
-* TypeScript
-* Redux Toolkit
-* RTK Query
-* React Query
-* Context API
-* GraphQL
-* HTML5
-* CSS3
-* Tailwind CSS
-* Material UI
-* Styled Components
-* SCSS
+My development approach focuses on clean code, modular architecture, security, performance, maintainability, and delivering reliable features.
 
 ---
 
-### ⚙️ Backend Development
+## 🛠️ Technical Skills
 
-* Node.js
-* Express.js
-* RESTful APIs
-* JWT Authentication
-* Role-Based Access Control (RBAC)
-* Middleware
-* API Validation
-* Error Handling
-* Multi-Tenant SaaS Applications
+### Frontend Engineering
+- React.js, Next.js, JavaScript ES6+, TypeScript
+- Redux Toolkit, Redux Thunk, RTK Query, React Query, Context API, Zustand
+- React Hook Form, GraphQL
+- HTML5, CSS3, SCSS/SASS, Tailwind CSS
+- Material UI, Ant Design, Bootstrap, Styled Components
+- Responsive UI, reusable component libraries, design systems, Core Web Vitals
 
----
+### Backend Engineering
+- Node.js, Express.js, NestJS
+- RESTful API design and CRUD operations
+- JWT authentication and role-based authorization (RBAC)
+- Middleware, request validation, centralized error handling
+- Multi-tenant SaaS architecture and data isolation
+- Python and FastAPI
 
-### 🗄️ Databases
+### Databases and Data Access
+- MongoDB, Mongoose
+- PostgreSQL, SQL, Prisma ORM
+- SQLAlchemy
+- Schema design, data modeling, query optimization
 
-* PostgreSQL
-* MongoDB
-* Prisma ORM
-* SQL
-* Database Design
+### DevOps and Developer Tools
+- Git, GitHub, GitLab
+- Docker, Nginx
+- Jenkins, Azure DevOps, CI/CD
+- AWS, Vite, Webpack
+- Postman
 
----
+### Testing and Quality
+- Jest, React Testing Library
+- Unit testing, integration testing, code reviews
+- Debugging, performance profiling, API validation
 
-### ☁️ DevOps & Tools
-
-* Docker
-* Azure DevOps
-* Jenkins
-* Git
-* GitHub
-* GitLab
-* Nginx
-* Webpack
-* Vite
-* Storybook
-
----
-
-### 🧪 Testing
-
-* Jest
-* React Testing Library
-* Unit Testing
+### AI-Assisted Development
+- GitHub Copilot, ChatGPT, Claude, Gemini
+- AI-assisted coding, debugging, refactoring, and development workflows
 
 ---
 
-### 🤖 AI Assisted Development
+## 🚀 Featured Projects
 
-* GitHub Copilot
-* ChatGPT
-* Claude
-* Gemini
+### 1. TeamDocs — Task and Document Management API
+
+**Technologies:** Node.js, Express.js, MongoDB, Mongoose, JWT, bcryptjs, express-validator, Multer
+
+A backend application for managing tasks and related documents, built with a layered architecture using controllers, services, repositories, and Mongoose models.
+
+**Key features:**
+- User registration and login with bcrypt password hashing and JWT-based authentication.
+- Task CRUD APIs for creating, retrieving, updating, and deleting tasks.
+- Role-Based Access Control (RBAC) for Admin, Manager, and Employee roles.
+- Task ownership checks so users can access tasks they created or that are assigned to them, while Admin can access all tasks.
+- Request validation and centralized error handling for consistent API responses.
+- Pagination with page and limit parameters, sorting, and total-count metadata.
+- Document uploads using Multer with file-size and file-type restrictions.
+- Document metadata stored in MongoDB, including original filename, stored filename, size, associated task, and uploader.
+- Protected document upload and listing routes based on task-access permissions.
+- Rate limiting for login and registration, security headers, CORS, and response compression.
+
+**Engineering focus:** Modular backend architecture, secure resource access, reusable middleware, API validation, and separation of business logic from database operations.
+
+**Current status:** Backend APIs developed and tested locally with Postman; deployment and production-ready persistent document storage are in progress.
+
+Repository: [TeamDocs Backend](https://github.com/Abhishekp12/teamdocs-be)
+
+### 2. Dramtrix & Tom Garni — Restaurant and Ticketing Applications
+
+**Technologies:** React.js, Next.js, Node.js, Express.js, MongoDB, REST APIs, RBAC, Pusher, Redux Thunk, Material UI
+
+- Built restaurant and ticketing dashboards with Admin and Super Admin interfaces.
+- Developed RESTful CRUD APIs using Node.js, Express.js, and MongoDB.
+- Implemented role-based permissions for administrative workflows.
+- Integrated real-time features using Pusher/WebSockets.
+- Improved application load time from approximately 7 minutes to 5 seconds through code splitting, lazy loading, memoization, and frontend performance optimization.
+
+### 3. GeoTech — Enterprise Borehole Data Management | Client: Larsen & Toubro (L&T)
+
+**Technologies:** React.js, TypeScript, Context API, Material UI, Zod, React Hook Form, Docker, Keycloak, Nginx
+
+- Developed an enterprise borehole data management application with geospatial visualization and interactive maps.
+- Implemented efficient handling of large datasets using optimized infinite scrolling.
+- Integrated Keycloak-based authentication and PDF/Excel report previews.
+- Supported secure application workflows and containerized deployment environments.
+- Collaborated with cross-functional teams in an Agile development environment.
+
+### 4. NyayTech — Multi-Tenant Legal SaaS Platform
+
+**Technologies:** Node.js, Express.js, PostgreSQL, Prisma ORM, JWT, RBAC, React.js
+
+- Developed RESTful APIs for user management, legal matter tracking, document handling, and workflow automation.
+- Implemented JWT-based authentication and role-based authorization.
+- Applied request validation and centralized error handling.
+- Supported tenant-level data isolation for secure multi-tenant workflows.
+- Integrated backend services with React frontend workflows for client and lawyer use cases.
+
+### 5. Crane Optimiz — Crane Recommendation System | Client: Larsen & Toubro (L&T)
+
+**Technologies:** React.js, Python, FastAPI, Material UI, Recharts, React Hook Form, Zod, Docker, Keycloak
+
+- Developed backend APIs using Python and FastAPI.
+- Supported crane selection recommendations based on load and reach constraints.
+- Built interactive dashboards for operational insights and planning.
+- Implemented type-safe form workflows and contributed to debugging, performance optimization, and deployment support.
 
 ---
 
-# 🏆 Professional Highlights
+## 🏆 Professional Highlights
 
-✅ Built scalable enterprise web applications using **React.js + Node.js**
-
-✅ Developed secure **REST APIs** with **JWT Authentication** and **RBAC**
-
-✅ Built reusable React component libraries and Design Systems
-
-✅ Improved application load time by **up to 98%**
-
-✅ Reduced frontend bundle size by **40%** using lazy loading, code splitting, and optimization techniques
-
-✅ Developed enterprise solutions for **Larsen & Toubro (L&T)**
-
-✅ Built multi-tenant SaaS modules with secure tenant isolation
-
-✅ Worked on real-time applications, dashboards, geospatial visualization, and performance-critical systems
+- Built and maintained reusable React design systems and component libraries.
+- Reduced frontend bundle size by **40%** through lazy loading, code splitting, tree shaking, and bundler optimization.
+- Improved application load time from approximately **7 minutes to 5 seconds** on a project.
+- Contributed to enterprise applications for Larsen & Toubro (L&T).
+- Developed backend APIs with JWT authentication, RBAC, validation, and secure data access.
+- Worked on multi-tenant SaaS workflows, real-time applications, dashboards, and geospatial data visualization.
+- Used Docker and CI/CD tools to support application packaging, delivery, and deployment.
 
 ---
 
-# 💼 Key Technologies
+## 🌱 Currently Learning
 
-### Frontend
-
-React.js • Next.js • TypeScript • JavaScript • Redux Toolkit • RTK Query • React Query • Context API • GraphQL
-
-### Backend
-
-Node.js • Express.js • REST APIs • JWT • RBAC • Middleware
-
-### Database
-
-PostgreSQL • MongoDB • Prisma ORM • SQL
-
-### DevOps
-
-Docker • Azure DevOps • Jenkins • Git • GitHub • CI/CD • Nginx
-
-### Testing
-
-Jest • React Testing Library
+- System Design and scalable backend architecture
+- Distributed systems and application scalability
+- Cloud deployment and production operations
+- GenAI and AI engineering
+- Automated API testing and deployment workflows
 
 ---
 
-# 🌱 Currently Learning
+## 📫 Let's Connect
 
-* Advanced System Design
-* Distributed Systems
-* AWS Cloud
-* GenAI & AI Engineering
-* Backend Architecture & Scalability
+- 📧 **Email:** [abhishekpandey.tech.12@gmail.com](mailto:abhishekpandey.tech.12@gmail.com)
+- 💼 **LinkedIn:** [abhishek-pandey](https://www.linkedin.com/in/abhishek-pandey-724a62153/)
+- 💻 **GitHub:** [Abhishekp12](https://github.com/Abhishekp12)
 
 ---
 
-# 📫 Connect With Me
-
-📧 **Email:** abhishekpandey.tech.12@gmail.com
-
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/abhishek-pandey-724a62153/
-
-💻 **GitHub:**  
-https://github.com/Abhishekp12
-
-⭐ Always interested in building scalable full-stack applications, solving challenging engineering problems, and contributing to high-impact engineering teams.
+⭐ I enjoy building scalable full-stack applications, designing maintainable software architectures, and solving challenging engineering problems. Always open to connecting with developers and teams working on impactful products.
