@@ -94,45 +94,6 @@ A backend application for managing tasks and related documents, built with a lay
 
 Repository: [TeamDocs Backend](https://github.com/Abhishekp12/teamdocs-be)
 
-### 2. Dramtrix & Tom Garni — Restaurant and Ticketing Applications
-
-**Technologies:** React.js, Next.js, Node.js, Express.js, MongoDB, REST APIs, RBAC, Pusher, Redux Thunk, Material UI
-
-- Built restaurant and ticketing dashboards with Admin and Super Admin interfaces.
-- Developed RESTful CRUD APIs using Node.js, Express.js, and MongoDB.
-- Implemented role-based permissions for administrative workflows.
-- Integrated real-time features using Pusher/WebSockets.
-- Improved application load time from approximately 7 minutes to 5 seconds through code splitting, lazy loading, memoization, and frontend performance optimization.
-
-### 3. GeoTech — Enterprise Borehole Data Management | Client: Larsen & Toubro (L&T)
-
-**Technologies:** React.js, TypeScript, Context API, Material UI, Zod, React Hook Form, Docker, Keycloak, Nginx
-
-- Developed an enterprise borehole data management application with geospatial visualization and interactive maps.
-- Implemented efficient handling of large datasets using optimized infinite scrolling.
-- Integrated Keycloak-based authentication and PDF/Excel report previews.
-- Supported secure application workflows and containerized deployment environments.
-- Collaborated with cross-functional teams in an Agile development environment.
-
-### 4. NyayTech — Multi-Tenant Legal SaaS Platform
-
-**Technologies:** Node.js, Express.js, PostgreSQL, Prisma ORM, JWT, RBAC, React.js
-
-- Developed RESTful APIs for user management, legal matter tracking, document handling, and workflow automation.
-- Implemented JWT-based authentication and role-based authorization.
-- Applied request validation and centralized error handling.
-- Supported tenant-level data isolation for secure multi-tenant workflows.
-- Integrated backend services with React frontend workflows for client and lawyer use cases.
-
-### 5. Crane Optimiz — Crane Recommendation System | Client: Larsen & Toubro (L&T)
-
-**Technologies:** React.js, Python, FastAPI, Material UI, Recharts, React Hook Form, Zod, Docker, Keycloak
-
-- Developed backend APIs using Python and FastAPI.
-- Supported crane selection recommendations based on load and reach constraints.
-- Built interactive dashboards for operational insights and planning.
-- Implemented type-safe form workflows and contributed to debugging, performance optimization, and deployment support.
-
 ---
 
 ## 🏆 Professional Highlights
